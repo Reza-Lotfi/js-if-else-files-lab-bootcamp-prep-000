@@ -1,2 +1,2 @@
 console.log(name)
-var name = 'reza'
+var name = ('reza')
